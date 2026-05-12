@@ -1,0 +1,27 @@
+Arrays / Hashing
+    Two Sum
+    3Sum
+    Group Anagrams
+    Top K Frequent Elements
+    Product of Array Except Self (you should master this)
+    Longest Consecutive Sequence
+Two Pointers
+    Valid Palindrome
+    Container With Most Water
+    Remove Duplicates from Sorted Array
+    Two Sum II (sorted array)
+Strings
+    Valid Anagram
+    Longest Common Prefix
+    String Compression
+    First Unique Character in a String
+Stack
+    Valid Parentheses
+    Min Stack
+    Daily Temperatures
+    Evaluate Reverse Polish Notation
+Sliding Window
+    Longest Substring Without Repeating Characters
+    Longest Repeating Character Replacement
+    Minimum Window Substring
+    Permutation in String
